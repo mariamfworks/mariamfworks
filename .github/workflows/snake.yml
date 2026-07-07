@@ -1,0 +1,26 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: MariamF35
+          outputs: |
+            dist/snake.svg
+
+      - name: Push to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
