@@ -4,7 +4,7 @@
 <br/>
 
 <!-- Social Badges -->
-  <a href="https://linkedin.com/in/mariam-f-a85266319">
+  <a href="https://linkedin.com/in/mariamf136">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -13,20 +13,24 @@
 </a>
 
 <a href="https://dev.to/MariamFatima">
-<img src="https://img.shields.io/badge/Dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dev-181717?style=for-the-badge&logo=devdotto&logoColor=white"/>
 </a>
 
-<a href="https://mariamf35.github.io">
+<a href="https://mariamfworks.github.io">
 <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://mariamfworks.github.io">
+<img src="https://img.shields.io/badge/Read%20the%20Docs-65c0fc?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=MariamF35&label=Profile%20Views&color=f75c7e&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=mariamfworks&label=Profile%20Views&color=f75c7e&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/MariamF35?label=Followers&style=for-the-badge&color=236ad3"/>
+<img src="https://img.shields.io/github/followers/mariamfworks?label=Followers&style=for-the-badge&color=236ad3"/>
 
-<img src="https://img.shields.io/github/stars/MariamF35?affiliations=OWNER&style=for-the-badge&color=F8D866"/>
+<img src="https://img.shields.io/github/stars/mariamfworks?affiliations=OWNER&style=for-the-badge&color=F8D866"/>
 
 <br />
 <!--  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a> -->
@@ -42,11 +46,11 @@
 - 💬 &nbsp; Ask me about **React, Node.js, Python, ML** — or anything tech!
 - 🌱 &nbsp; Always learning something new
 - ⚡ &nbsp; Fun fact: I debug without AI tools *and* I'm proud of it
-- ### I enjoy:
+ ### I enjoy:
 - 💻 &nbsp; Exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
-- 📫 &nbsp; Reach me at: **[mariamfatimaworks@gmail.com](mailto:mariamfatimaworks@gmail.com)** or [<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="40em" align="center" alt="Follow Mariam Fatima on LinkedIn" title="Follow Mariam Fatima on LinkedIn"/>](https://linkedin.com/in/mariam-f-a85266319)
+- 🍕 &nbsp; Tech Events & Hackathons.
+- 📫 &nbsp; Reach me at: **[mariamfworks@gmail.com](mailto:mariamfworks@gmail.com)** or [<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="40em" align="center" alt="Follow Mariam Fatima on LinkedIn" title="Follow Mariam Fatima on LinkedIn"/>](https://linkedin.com/in/mariamf136)
 
 
 ---
@@ -131,18 +135,18 @@
 
   <!-- GitHub Stats -->
   <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariamF35&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamF35&langs_count=8&layout=compact&theme=radical&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariamfworks&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamfworks&langs_count=8&layout=compact&theme=radical&hide_border=true" />
   </p>
 
   <!-- Streak Stats -->
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariamF35&theme=radical&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariamfworks&theme=radical&hide_border=true" />
   </p>
 
   <!-- Activity Graph -->
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=MariamF35&bg_color=141321&color=f75c7e&line=f75c7e&point=FFFFFF&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=mariamfworks&bg_color=141321&color=f75c7e&line=f75c7e&point=FFFFFF&hide_border=true" />
   </p>
 
 </details>
@@ -181,9 +185,9 @@
 If you like my work, give it a ⭐ and share it with friends!
 <br/>
 
-*Made with ❤️ by Mariam*
+<i> Made with ❤️ by Mariam </i>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MariamF35/MariamF35/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mariamfworks/mariamfworks/output/snake.svg" alt="Snake animation" />
 </p>
