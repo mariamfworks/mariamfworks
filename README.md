@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://mariamfworks.github.io">
-<img src="https://img.shields.io/badge/Read%20the%20Docs-65c0fc?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Resume-65c0fc?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
 <br>
