@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://mariamfworks.github.io">
+<a href="https://drive.google.com/file/d/1_hzzO0DfuKIiozdk58rSnoXtvsER3ikH/view?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-65c0fc?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
